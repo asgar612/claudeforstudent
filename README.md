@@ -1,0 +1,2 @@
+# claudeforstudent
+Student for claude
